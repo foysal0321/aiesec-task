@@ -1,0 +1,9 @@
+.navbar{
+    background-color: cadetblue;
+    color: white;
+    height: 80px;
+}
+li{
+    font-size: 18px;
+    font-weight: 500;
+}

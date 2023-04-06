@@ -1,0 +1,13 @@
+
+.news{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.card{
+    height: 350px;
+    width: 320px;
+}
+.card img{
+    width: 320px;
+    height: 190px;
+}
